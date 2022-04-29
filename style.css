@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(134, 170, 238);
+   
+}
+
+.hI1{
+    margin-left: 35.5%;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+
+.p1{
+    margin-left: 45%;
+    font-size: 25px
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 10px;
+    width: 9%;
+}
+
+
+.p2{
+    margin-left: 33%;
+    font-size: 25px
+}
+
+h2{
+    color: crimson;
+}
